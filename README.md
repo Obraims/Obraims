@@ -34,7 +34,7 @@
 </h2>
 
 <p>
-  I am <strong>Stephen Baraka</strong>, a <strong>Software Engineering and finance</strong> student from <strong>Kenya</strong> with a strong interest in technology, finance, and problem-solving. My journey in technology began with a curiosity about how software systems work and how they can be used to solve real-world challenges.
+  I am <strong>Stephen Baraka</strong>, a <strong>Software Engineering and finance</strong> student from <strong>Kenya</strong> with a strong interest in technology, finance, and problem-solving. As a Finance and Accounting student my journey in technology began with a curiosity about how software systems work and how they can be used to solve real-world challenges.
 </p>
 
 <p>
