@@ -1,5 +1,5 @@
 <!-- 1 · Banner introductorio, bordes -->
-<img src="./assets/obraims-banner.png" alt="Stephen Baraka banner" width="100%" /> 
+<img src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/obraims-banner.png" alt="Stephen Baraka banner" width="100%" /> 
 
 <!-- 2 · Profile badges -->
 <p>
@@ -14,12 +14,12 @@
 
 <!-- 3 · Greetings -->
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
-  <img src="./assets/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">
   Hi, I'm Stephen Baraka!
 </h1>
 
 <img 
-  src="./assets/aboutmeban.jpg" 
+  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/aboutmeban.jpg" 
   alt="About Me Banner"  
   width="100%" 
   style="border-radius: 22px;" 
@@ -100,7 +100,7 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="./assets/skills-banner.png" 
+  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/skills-banner.png" 
   alt="Technical Skills Banner" 
   width="100%" 
   style="border-radius: 22px;" 
@@ -191,7 +191,7 @@
 </h2>
 
 <img 
-  src="./assets/github-contribution-grid-snake-dark.svg" 
+  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/github-contribution-grid-snake-dark.svg" 
   alt="GitHub Contribution Grid Snake" 
   width="100%" 
 />
@@ -201,7 +201,7 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="./assets/social-banner.png" 
+  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/social-banner.png" 
   alt="Social Media Banner"  
   width="100%" 
   style="border-radius: 22px;" 
