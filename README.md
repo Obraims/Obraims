@@ -183,6 +183,19 @@
 ![Logisim](https://img.shields.io/badge/Logisim-4B5563?logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)
 
+<!-- 5.8 · GitHub Activity & Contribution Snake -->
+<hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
+
+<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 12px;">
+  🐍 GitHub Contribution Graph:
+</h2>
+
+<img 
+  src="./assets/github-contribution-grid-snake-dark.svg" 
+  alt="GitHub Contribution Grid Snake" 
+  width="100%" 
+/>
+
 <!-- 6 · Seccion 3 socials -->
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
