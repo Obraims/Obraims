@@ -1,5 +1,5 @@
 <!-- 1 · Banner introductorio, bordes -->
-<img src="https://raw.githubusercontent.com/Obraims/Obraims/main/assets/obraims-banner.png" alt="Stephen Baraka banner" /> 
+<img src="./assets/obraims-banner.png" alt="Stephen Baraka banner" width="100%" /> 
 
 <!-- 2 · Profile badges -->
 <p>
@@ -14,12 +14,12 @@
 
 <!-- 3 · Greetings -->
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
-  <img src="https://raw.githubusercontent.com/Obraims/Obraims/main/assets/Waving%20Hand.png" width="30" height="30">
+  <img src="./assets/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">
   Hi, I'm Stephen Baraka!
 </h1>
 
 <img 
-  src="https://raw.githubusercontent.com/Obraims/Obraims/main/assets/aboutmeban.jpg" 
+  src="./assets/aboutmeban.jpg" 
   alt="About Me Banner"  
   width="100%" 
   style="border-radius: 22px;" 
@@ -100,7 +100,7 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="https://raw.githubusercontent.com/Obraims/Obraims/main/assets/skills-banner.png" 
+  src="./assets/skills-banner.png" 
   alt="Technical Skills Banner" 
   width="100%" 
   style="border-radius: 22px;" 
@@ -113,82 +113,82 @@
 <!-- 5.1 · Programming Languages -->
 <h3 style="margin-top: 10px; margin-bottom: 8px;">💻 Programming Languages</h3>
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=PHP&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)](#)
-[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=PHP&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)
 
 <!-- 5.2 · Databases -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">🗄️ Databases</h3>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 <!-- 5.3 · Web Development -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">🌐 Web Development</h3>
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 
 <!-- 5.4 · Cloud, DevOps & Systems -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">☁️ Cloud, DevOps & Systems</h3>
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 <!-- 5.5 · Data Science & AI Tools -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">📊 Data Science & AI Tools</h3>
 
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)](#)
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
-[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
 
 <!-- 5.6 · Design Tools -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">🎨 Design Tools</h3>
 
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](#)
-[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
-[![Photopea](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white)](#)
-[![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
+![Photopea](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white)
+![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)
 
 <!-- 5.7 · Hardware & Low-Level Tools -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">🔌 Hardware & Low-Level Tools</h3>
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
-[![Logisim](https://img.shields.io/badge/Logisim-4B5563?logoColor=white)](#)
-[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Logisim](https://img.shields.io/badge/Logisim-4B5563?logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)
 
-<!-- ************6 · Seccion 3 socials -->
+<!-- 6 · Seccion 3 socials -->
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="https://raw.githubusercontent.com/Obraims/Obraims/main/assets/social-banner.png" 
+  src="./assets/social-banner.png" 
   alt="Social Media Banner"  
   width="100%" 
   style="border-radius: 22px;" 
@@ -209,6 +209,6 @@
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Obraimss)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/obraims)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Obraims)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@obraims_)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@obraims_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/254743717285)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](http://www.pinterest.com/Obraims)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://www.pinterest.com/Obraims)
