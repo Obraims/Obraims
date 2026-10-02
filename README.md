@@ -3,7 +3,6 @@
 
 <!-- 2 · Profile badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Obraims&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Obraims?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Software%20Engineering-Student-0e75b6" alt="Software Engineering Student" />
   <img src="https://img.shields.io/badge/FinTech-Focus-0e75b6" alt="FinTech Focus" />
