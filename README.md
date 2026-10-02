@@ -1,10 +1,10 @@
 <!-- 1 · Banner introductorio, bordes -->
-<img src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/obraims-banner.png" alt="Stephen Baraka banner" width="100%" /> 
+<img src="./assets/obraims-banner.jpg" alt="Stephen Baraka banner" width="100%" /> 
 
 <!-- 2 · Profile badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Obraims&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Obraims?label=Followers&style=flat&color=0e75b6&cacheSeconds=0" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Obraims?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Software%20Engineering-Student-0e75b6" alt="Software Engineering Student" />
   <img src="https://img.shields.io/badge/FinTech-Focus-0e75b6" alt="FinTech Focus" />
   <img src="https://img.shields.io/badge/Graphic%20Design-Creative-0e75b6" alt="Graphic Design" />
@@ -14,15 +14,16 @@
 
 <!-- 3 · Greetings -->
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">
+  <img src="./assets/Waving%20Hand.png" alt="Waving Hand" width="30" height="30">
   Hi, I'm Stephen Baraka!
 </h1>
 
 <img 
-  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/aboutmeban.jpg" 
+  src="./assets/aboutmeban.jpg" 
   alt="About Me Banner"  
   width="100%" 
   style="border-radius: 22px;" 
+  loading="lazy"
 />
 
 <!-- 4.1 · Section separator -->
@@ -100,10 +101,11 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/skills-banner.png" 
+  src="./assets/skills-banner.png" 
   alt="Technical Skills Banner" 
   width="100%" 
   style="border-radius: 22px;" 
+  loading="lazy"
 />
 
 <h2 id="technical-skills" style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
@@ -145,26 +147,26 @@
 <!-- 5.4 · Cloud, DevOps & Systems -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">☁️ Cloud, DevOps & Systems</h3>
 
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 <!-- 5.5 · Data Science & AI Tools -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">📊 Data Science & AI Tools</h3>
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-71D291?logo=python&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
-![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
 
@@ -174,7 +176,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white)
-![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white)
 
 <!-- 5.7 · Hardware & Low-Level Tools -->
 <h3 style="margin-top: 22px; margin-bottom: 8px;">🔌 Hardware & Low-Level Tools</h3>
@@ -191,9 +193,10 @@
 </h2>
 
 <img 
-  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/github-contribution-grid-snake-dark.svg" 
+  src="./assets/github-contribution-grid-snake-dark.svg" 
   alt="GitHub Contribution Grid Snake" 
   width="100%" 
+  loading="lazy"
 />
 
 <!-- 6 · Seccion 3 socials -->
@@ -201,10 +204,11 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img 
-  src="https://cdn.jsdelivr.net/gh/Obraims/Obraims@main/assets/social-banner.png" 
+  src="./assets/social-banner.png" 
   alt="Social Media Banner"  
   width="100%" 
   style="border-radius: 22px;" 
+  loading="lazy"
 />
 
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 12px;">
